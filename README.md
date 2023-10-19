@@ -11,4 +11,4 @@ En este archivo se explican los 5 métodos de partición implementados en el alg
 
 5) custom_split: Realiza una partición personalizada de los datos. Se pueden especificar los índices que se asignan al conjunto de entrenamiento, mientras que los demás datos se asignan al conjunto de prueba.
 
-![image](https://github.com/AxelZaldivar/Partciones/assets/89545307/6da97336-93e9-4432-908d-25dba5eef4d4)
+![image](https://github.com/AxelZaldivar/Partciones/assets/89545307/eb816b30-0ee2-4b21-a0e1-f8ce49c42909)
